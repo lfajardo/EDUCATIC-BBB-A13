@@ -1,5 +1,6 @@
-# a13-ansible
+# EDUCATIC-BBB-A13
 
+Se trata de un sistema para instalar remotamente y de forma desatendida un sistema Big Blue Button complejo (con Greenlight, monitorización, backups, wiki, Rocketchat, etc...). El master del que deriva este fork utiliza Rocketchat, en nuestra instalación usamos Mattermost, así que tendremos que ponderar si mantenerlo o modificarlo. Este trabajo se basa en el realizado por el proyecto a13-ansible, del municipio alemán de Ulm. Se documenta en castellano, pero para compatibilidad internacional el código se mantendrá en inglés.
 
 ### Prepare
 
